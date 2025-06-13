@@ -20,8 +20,8 @@
         "host_label": null,
         "SNR_point" : null,
         "SNR_diffuse": null,
-        "is_compute_DRR": true,
-        "is_compute_SRR": true
+        "is_compute_DRR": false,
+        "is_compute_SRR": false
     }
 
 }
